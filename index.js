@@ -11,19 +11,40 @@ inquirer.prompt([
     {
       type: 'input',
       name: 'description',
-      message: 'Please decribe your project in detail'  
+      message: 'Please decribe your project in detail.'  
     },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'Please decribe your installation process.'  
+      },
+      {
+        type: 'input',
+        name: 'usage',
+        message: 'Provide instructions and examples for use.'  
+      },
+      {
+        type: 'input',
+        name: 'contributers',
+        message: 'Provide the contributers on this project.'  
+      },
+      {
+        type: 'input',
+        name: 'tests',
+        message: 'Provide info on how to run tests on your project.'  
+      },
+      {
+        type: 'input',
+        name: 'questions',
+        message: 'Provide your github user name.'  
+      },
     {
         type: 'list',
         name: 'license',
         message: 'Choose you license',
         choices: ['MIT', 'Apache_2.0', 'Boost_1.0', 'CCO_1.0']
-    },
-    {
-        type: 'input',
-        name: 'Installation',
-        message: 'What are the installation instructions?'
-    },
+    }
+    
     
 
 ]).then(function(answers) {

@@ -1,4 +1,4 @@
-# test
+# Readme-generator
 
 ## Table of Contents:
 [Description](#Description)
@@ -6,8 +6,8 @@
 [License](#License)
 
 ## Description
-test
+A gproject that generates a proffesional ReadME.md
 
 ## License
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache_2.0)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
