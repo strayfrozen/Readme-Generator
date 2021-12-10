@@ -1,25 +1,25 @@
-# test
+# Test
 
 ## Table of Contents:
-[Description](#Description)
+[Description](#description)
 
-[License](#License)
+[License](#license)
 
-[Installation](#Installation)
+[Installation](#installation)
 
-[Usage](#Usage)
+[Usage](#usage)
 
-[Contributers](#Contributers)
+[Contributers](#contributers)
 
-[Tests](#Tests)
+[Tests](#tests)
 
-[Questions](#Questions)
+[Questions](#questions)
 
 ## Description
 test
 
 ## License
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache_2.0)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Installation
