@@ -9,13 +9,17 @@
 
 [Usage](#Usage)
 
-[Contributers](#contributers)
+[Contributers](#Contributers)
+
+[Tests](#Tests)
+
+[Questions](#Questions)
 
 ## Description
 test
 
 ## License
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache_2.0)
 
 
 ## Installation
@@ -27,4 +31,9 @@ test
 ## Contributers
 test
 
+## Tests
+test
+
+## Questions
+test
 

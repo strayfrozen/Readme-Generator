@@ -11,7 +11,11 @@ function generateMarkdown(data) {
 
 [Usage](#Usage)
 
-[Contributers](#contributers)
+[Contributers](#Contributers)
+
+[Tests](#Tests)
+
+[Questions](#Questions)
 
 ## Description
 ${data.description}
@@ -29,6 +33,11 @@ ${data.usage}
 ## Contributers
 ${data.contributers}
 
+## Tests
+${data.tests}
+
+## Questions
+${data.questions}
 
 `;
 }
