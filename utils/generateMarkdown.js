@@ -9,6 +9,10 @@ function generateMarkdown(data) {
 
 [Installation](#Installation)
 
+[Usage](#Usage)
+
+[Contributers](#contributers)
+
 ## Description
 ${data.description}
 
@@ -18,6 +22,13 @@ ${data.description}
 
 ## Installation
 ${data.installation}
+
+## Usage
+${data.usage}
+
+## Contributers
+${data.contributers}
+
 
 `;
 }

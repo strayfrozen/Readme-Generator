@@ -1,4 +1,4 @@
-# Project 1
+# test
 
 ## Table of Contents:
 [Description](#Description)
@@ -7,13 +7,24 @@
 
 [Installation](#Installation)
 
+[Usage](#Usage)
+
+[Contributers](#contributers)
+
 ## Description
 test
 
 ## License
-[![License](https://img.shields.io/badge/License-Boost_1.0-blue.svg)](https://opensource.org/licenses/Boost_1.0)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Installation
 test
+
+## Usage
+test
+
+## Contributers
+test
+
 
