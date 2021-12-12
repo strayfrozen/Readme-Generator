@@ -1,39 +1,29 @@
-# Test
+# Readme-generator
 
 ## Table of Contents:
 [Description](#description)
 
 [License](#license)
 
-[Installation](#installation)
-
 [Usage](#usage)
 
 [Contributers](#contributers)
 
-[Tests](#tests)
-
-[Questions](#questions)
 
 ## Description
-test
+This is an application that generates a custom readme based on user input
 
 ## License
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache_2.0)
 
-
-## Installation
-test
 
 ## Usage
-test
+<a href="https://watch.screencastify.com/v/amGNb46rlI3iSzp4lJe1">Link to video of application</a>
 
 ## Contributers
-test
+strayfrozen
 
-## Tests
-test
 
-## Questions
-test
+
+
 
