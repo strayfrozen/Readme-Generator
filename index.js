@@ -48,5 +48,5 @@ inquirer.prompt([
     
 
 ]).then(function(answers) {
-    fs.writeFile('README.md', markdown(answers), (err) => err ? console.log(err) : console.log('Your ReadMe file has been created!'))
+    fs.writeFile('SampleREADME.md', markdown(answers), (err) => err ? console.log(err) : console.log('Your ReadMe file has been created!'))
 })
